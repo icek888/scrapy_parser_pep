@@ -1,7 +1,3 @@
-Вот пример содержимого для файла `README.md` вашего проекта:
-
----
-
 # Scrapy Parser PEP
 
 Этот проект представляет собой асинхронный парсер документов PEP (Python Enhancement Proposals) с использованием фреймворка Scrapy. Парсер собирает информацию о всех PEP и сохраняет её в два CSV-файла:
@@ -111,8 +107,7 @@ pytest
 ## Автор
 
 - **Ваше имя**  
-  - GitHub: [icek888](https://github.com/ваш-username)  
-  - Email: ваш-email@example.com
+  - GitHub: [icek888]
 
 ---
 
