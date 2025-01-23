@@ -10,7 +10,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ваш-username/scrapy_parser_pep.git
+   git clone https://github.com/icek888/scrapy_parser_pep.git
    cd scrapy_parser_pep
    ```
 
