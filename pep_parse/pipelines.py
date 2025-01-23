@@ -19,8 +19,7 @@ class PepParsePipeline:
     def close_spider(self, spider):
         # Формируем имя файла с временной меткой
         timestamp = spider.crawler.stats.get_value('start_time').strftime(
-            '%Y-%m-%d_%H-%M-%S'
-            )
+            '%Y-%m-%d_%H-%M-%S')
         filename = f'results/status_summary_{timestamp}.csv'
 
         # Сохраняем сводку в файл
