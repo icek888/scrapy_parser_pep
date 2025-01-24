@@ -4,8 +4,6 @@ BOT_NAME = 'pep_parse'
 
 SPIDER_MODULES = ['pep_parse.spiders']
 
-PEP_SPIDER_URL = 'peps.python.org'
-
 ROBOTSTXT_OBEY = True
 
 BASE_DIR = Path(__file__).parent.parent
